@@ -3,81 +3,73 @@ Contributors: kasperta, sebd86
 Tags: mailpoet, wysija, woocommerce, e-commerce, mail, email, e-mail, extension, add-on, newsletter, newsletters, subscription, checkout, list, lists, double opt-in, form
 Donate link: http://www.tikweb.dk/donate/
 Requires at least: 5.2
-Tested up to: 6.1
+Tested up to: 6.5.5
 Requires PHP: 7.2
-Stable tag: 1.1.9
+Stable tag: 1.1.10
 
 Let your customers subscribe to your MailPoet 3 newsletter as they checkout from WooCommerce with their purchase.
 
 == Description ==
 
-> #### Requirements
-> [MailPoet 3](https://wordpress.org/plugins/mailpoet/)<br />
-> [WooCommerce](http://wordpress.org/plugins/woocommerce/)
+## 🚀 **Introducing Add-on WooCommerce – MailPoet 3** 🚀
 
-Let your customers subscribe to your newsletter/s as they checkout with their purchase.
+**🎉 Boost Your Newsletter Game with One Click! 🎉**
 
-= Features =
+Are you ready to take your e-commerce game to the next level? Let your customers stay in the loop and never miss a beat with our powerful **Add-on WooCommerce – MailPoet 3**! 💌💪  
+You can allow your customers to subscribe to your newsletters at checkout.
 
-* If you have more than one newsletter list, customers can select which list to subscribe when making a purchase.
-* Double Opt-in.
-* Decide if the checkbox/s to subscribe is checked or un-checked.
-* Place the subscription fields on the checkout page where you want them to be.
-* Custom checkbox label.
+**Empowering Features:**
 
-= Setting up the Plugin =
+🎈 **Tailored Subscriptions:** Give your customers the freedom to choose their preferred newsletter(s) right at the checkout! Whether you have one or multiple newsletter lists, it's just a matter of clicks for them to opt in for their favorite updates.
 
-To setup this plugin, go to "WooCommerce -> Settings" and then the MailPoet tab. The settings are in two sections. 'General | Available Lists'
+🔒 **Trusty Double Opt-in:** Build a strong foundation of trust with double opt-in. This nifty feature ensures that only engaged and genuinely interested subscribers get on board, boosting your open rates and customer loyalty.
 
-"General" contains the main settings for the plugin.
+🎨 **Customize Your Strategy:** Take charge of your subscription checkboxes with style! Decide whether they come pre-checked or unchecked – it's all about creating a seamless shopping experience that aligns perfectly with your brand vision.
 
-"Available Lists" contains a table listing of all your created lists. Select the lists you want your customers to subscribe to by ticking the checkbox next to the list and press 'Save changes'.
+🎯 **Strategic Placement:** We believe in giving you full control! Place the subscription fields exactly where you want them on the checkout page – no compromises, no fuss!
 
-That's it, now when your customers tick the subscribe checkbox on the checkout page, they will be subscribed to the newsletter/s you selected when processing an order.
+💬 **Personalize Labels:** Engage your audience with personalized checkbox labels! Craft the perfect call-to-action that resonates with your customers and entices them to be part of your exclusive community.
 
-== <a name="how-to-translate"></a>How to translate? ==
+**🔧 Plugin pre-requisites:**
 
-We use the official WordPress Polyglots translation team and online translation system - which is not very common among plugin authors, and therefore we would like to explain why this is both easier and better for all than the common .pot/.po/.mo files.
+1. [WooCommerce](https://wordpress.org/plugins/woocommerce/)
+2. [MailPoet](https://wordpress.org/plugins/mailpoet/)
 
-= Online web translation =
-To make it short, you simply use the online system at <https://translate.wordpress.org/projects/wp-plugins/add-on-woocommerce-mailpoet> to translate both "Development" and "Development Readme" into your language. And when a translation editor have approved the translations, a language pack will automatically be generated for all websites using our plugin and the language you translated. No need to work with any files at all, WordPress will automatically load the translation, when it is approved by an editor.
+💻 **Easy Installation and Activation:** 💻
 
-= .pot/.po/.mo files =
-If you need to have your own texts and translations, you can off course still use Poedit or a plugin like Loco Translate with your own .po files. You can export and download a translation to a .po file from
-<https://translate.wordpress.org/projects/wp-plugins/add-on-woocommerce-mailpoet> -> Choose language -> Choose Development -> Export (at the bottom)
-If you add new translations, please consider using the import button at the same place, to import your .po file translations into the online system so everyone may benefit from your translations :-)
+Setting up our plugin is as smooth as a summer breeze! 🍃😎  
+Just follow these simple steps:
 
-= Online web translation: Editors and approval =
-Everyone can edit and add translations for our plugin using the online system at <https://translate.wordpress.org/projects/wp-plugins/add-on-woocommerce-mailpoet> - this only require that you are logged in with your wordpress.org user name. But only editors may approve translations. So after adding translations for a new language, you should apply to become the Project Translation Editor (PTE) for your language for our plugin, then you may approve your own translations.
+✨ Head to WooCommerce -> Settings and navigate to the MailPoet tab. Two powerful sections await you -- 'General | Available Lists'
 
-Only members of the WordPress Polyglots team can approve new PTEs, which they usually do pretty fast when you have added a full language of translations. To approve a new PTE, the polyglots team member must be a General Translation Editor (GTE) for the language, meaning one that have access to all plugins for the specific language, since the one approving you off course needs to be fluent in your language to be able to read your first translations and check that they are of good quality.
+✨ Dive into the 'General' section for all the main settings. Customize your plugin with ease, and unleash its full potential!
 
-To become PTE, you simply request it at the Polyglots forum.
-We suggest you use the example below - exchange xx_XX with your locale (ex. da_DK for danish in Denmark) and XXXXX with your wordpress.org username (ex. mine is kasperta). If your language have several different locales, add an extra line with that locale.
-So copy and paste the text below to a new post at <https://make.wordpress.org/polyglots/> - and edit locale + user name, and soon you may approve your own translations :-)
----beginning of forum post---
-	Hello Polyglots, I have added translations for "Add-on WooCommerce – MailPoet 3" (&lt;a href="https://wordpress.org/plugins/add-on-woocommerce-mailpoet/">Add-on WooCommerce – MailPoet 3&lt;/a>) and would like to become the Project Translation Editor (PTE) for my language.
-	Please add my WordPress.org user as Project Translation Editor (PTE) for the respective locales:
-	o #xx_XX – @XXXXX
-	If you have any questions, just comment here. Thank you!
-	#editor-requests
----end of forum post---
+✨ The real magic happens in the 'Available Lists' section. We've made it simple to manage your lists -- just select the ones you want your customers to subscribe to. Ticking the checkboxes and pressing 'Save changes' is all it takes! 🎯💼
 
-= Translations and editors =
+With **Add-on WooCommerce – MailPoet 3**, it's time to supercharge your communication and unlock unparalleled success in the digital world! 🌟🚀
 
-See the current translation contributors and editors for our plugin for the different languages at:
-<https://translate.wordpress.org/projects/wp-plugins/add-on-woocommerce-mailpoet/contributors>
+Your customers will love the seamless experience of subscribing to their favorite newsletters as they shop, and you'll love the boost in engagement and conversions!  
 
-See the generated language packs at:
-<https://translate.wordpress.org/projects/wp-plugins/add-on-woocommerce-mailpoet/language-packs>
+🛍️💕 So why wait? Elevate your e-commerce journey now – get **Add-on WooCommerce – MailPoet 3** and unlock a world of possibilities! 🛍️💕
 
-If the online system have not generated a language pack for your language, it is because:
+If you have any questions or need further assistance, our support team is always available to help. 🙌📞 Feel free to reach out to us, and let's embark on this exciting journey together! 🚀🌟
 
-1. Your texts are not approved, check if they are still in the "waiting" column. If they are, then check if there is an [editor](https://translate.wordpress.org/projects/wp-plugins/add-on-woocommerce-mailpoet/contributors) for your language, if not, then request to become an editor.
-2. There are not enough texts translated, you need about 90% translated before a translation pack is generated.
-3. You have only translated the plugin strings and not the readme. You need above 90% for "Development" and "Development Readme" together, check the percentage of both columns for your language at <https://translate.wordpress.org/projects/wp-plugins/add-on-woocommerce-mailpoet>
+**🔌 Our other plugins:**
 
+➡️ Add a MailPoet 3 signup field to your Contact Form 7 forms.  
+Link: [Add-on Contact Form 7 – MailPoet 3](https://wordpress.org/plugins/add-on-contact-form-7-mailpoet/)
 
+➡️ Submit your MailPoet 3 newsletter as your customer's checkout from WooCommerce.  
+Link: [Add-on WooCommerce – MailPoet 3](https://wordpress.org/plugins/add-on-woocommerce-mailpoet/)
+
+➡️ Easily switch between users and roles from the admin bar - add users or roles from a list or search by ID, username, email address, etc.  
+Link: [Fast User Switching](https://wordpress.org/plugins/fast-user-switching/)
+
+➡️ Automatic mail bounce handling for MailPoet 3 to handle bounce emails easily when using your own SMTP server.  
+Link: [Bounce Handler MailPoet 3](https://wordpress.org/plugins/bounce-handler-mailpoet/)
+
+➡️ Create MailPoet 3 newsletter subscribers from Gravity Form entries.  
+Link: [Add-on Gravity Forms – MailPoet 3](https://wordpress.org/plugins/add-on-gravity-forms-mailpoet/)
 
 == Installation ==
 
@@ -86,35 +78,35 @@ There are 3 ways to install this plugin:
 = 1. The super easy way =
 1. In your WordPress dashboard, navigate to Plugins > Add New
 2. Search for `Add-on WooCommerce MailPoet 3`
-3. Click on "install now" under "Add-on WooCommerce MailPoet 3 "
+3. Click on "Install Now" under "Add-on WooCommerce MailPoet 3"
 4. Activate the plugin
 
 = 2. The easy way =
-1. Download the plugin (.zip file) by using the blue "download" button underneath the plugin banner at the top
+1. Download the plugin (.zip file) by using the blue "Download" button underneath the plugin banner at the top
 2. In your WordPress dashboard, navigate to Plugins > Add New
 3. Click on "Upload Plugin"
 4. Upload the .zip file
 5. Activate the plugin
 
 = 3. The old-fashioned and reliable way (FTP) =
-1. Download the plugin (.zip file) by using the blue "download" button underneath the plugin banner at the top
+1. Download the plugin (.zip file) by using the blue "Download" button underneath the plugin banner at the top
 2. Extract the archive and then upload, via FTP, the `woocommerce-add-on-mailpoet-3` folder to the `<WP install folder>/wp-content/plugins/` folder on your host
 3. Activate the plugin
 
 = Setting up the Plugin =
 
-To setup this plugin, go to "WooCommerce -> Settings" and then the MailPoet tab. The settings are in two sections. 'General | Available Lists'
+To set up this plugin, go to "WooCommerce -> Settings" and then the MailPoet tab. The settings are in two sections: 'General | Available Lists'
 
 "General" contains the main settings for the plugin.
 
-"Available Lists" contains a table listing of all your created lists. Select the lists you want your customers to subscribe to by ticking the checkbox next to the list and press 'Save changes'.
+"Available Lists" contains a table listing all your created lists. Select the lists you want your customers to subscribe to by ticking the checkbox next to the list and pressing 'Save changes'.
 
-That's it, now when your customers tick the subscribe checkbox on the checkout page, they will be subscribed to the newsletter/s you selected when processing an order.
+That's it! Now, when your customers tick the subscribe checkbox on the checkout page, they will be subscribed to the newsletter(s) you selected when processing an order.
 
 == Screenshots ==
 
 1. Single checkbox subscribe field on the checkout page.
-2. Multi checkbox subscribe fields on the checkout page.
+2. Multi-checkbox subscribe fields on the checkout page.
 3. General plugin settings.
 
 == Changelog ==
@@ -124,4 +116,5 @@ That's it, now when your customers tick the subscribe checkbox on the checkout p
 == Upgrade Notice ==
 
 = x.0.0 =
-* There are nothing else needed, than upgrading from the WordPress pluings screen.
+* There is nothing else needed, just upgrade from the WordPress plugins screen.
+
